@@ -1,6 +1,9 @@
 # caret
-Digital cryptography software written in C.
-Only works with files, usage is explain when running the program without args.
+Digital cryptography software written in C using the caret operator.
+Only works with files.
+
+## Usage
+./caret [input file] [output file] [key]
 
 Only tested on linux.
 
