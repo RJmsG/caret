@@ -59,6 +59,6 @@ int main(int argc, char*argv[]){
             printf("An error occured.");
         
     }else{
-        printf("usage --- ./caret [input file][output file]");
+        printf("usage --- ./caret [input file][output file][key]");
     }
 }
